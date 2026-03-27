@@ -4,7 +4,7 @@ let palindromo = palavra.split('');
 palindromo.reverse();
 palindromo = palindromo.join('');
 if(palindromo == palavra){
-    console.log('palíndromo')
+    console.log('palíndromo');
 } else{
-    console.log('não é palíndromo')
+    console.log('não é palíndromo');
 }

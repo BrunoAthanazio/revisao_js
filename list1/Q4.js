@@ -5,7 +5,7 @@ for(let i = num - 1; i > 0; i--){
 }
 console.log('Fatorial:')
 if(num == 0){
-    console.log(1)
+    console.log(1);
 }else{
-    console.log(num)
+    console.log(num);
 }
